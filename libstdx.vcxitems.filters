@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="stdx">
+      <UniqueIdentifier>{337834cf-6745-471f-a544-a63a7109b452}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)stdx\formatting.h">
+      <Filter>stdx</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
