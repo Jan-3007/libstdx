@@ -9,5 +9,12 @@
     <ClInclude Include="$(MSBuildThisFileDirectory)stdx\formatting.h">
       <Filter>stdx</Filter>
     </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libstdx.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)stdx\type_utils.h">
+      <Filter>stdx</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)stdx\string_utils.h">
+      <Filter>stdx</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

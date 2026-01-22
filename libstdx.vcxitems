@@ -16,5 +16,7 @@
   <ItemGroup>
     <ClInclude Include="$(MSBuildThisFileDirectory)libstdx.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)stdx\formatting.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)stdx\string_utils.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)stdx\type_utils.h" />
   </ItemGroup>
 </Project>
